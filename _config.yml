@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Choi Hyunjun"
   avatar : "/assets/images/chj02.jpg"
-  bio    : "from my life import memory as here"
+  bio    : "from my_life import memory as here"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
